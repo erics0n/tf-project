@@ -3,7 +3,7 @@
 *.tfstate.backup
 *.tfstate.lock.info
 *.terraform.lock.hcl
-*.variables.tf
+*/variables.tf
 
 # logs
 *.log
